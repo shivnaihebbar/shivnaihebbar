@@ -38,7 +38,7 @@ Link: https://github.com/shivnaihebbar/Lunar-Seismic-events
 - Achieved 84.58% accuracy using SVM  
 - Compared multiple models and evaluated performance  
 
-Link: 
+Link: https://github.com/shivnaihebbar/miniproject2024
 
 ---
 
