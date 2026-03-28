@@ -6,7 +6,7 @@
 ## About Me
 - MSc Data Science student at Christ University  
 - Skilled in Python, SQL, Machine Learning, and Data Visualization  
-- Experience building ML models and analytical dashboards  
+- Experience building ML models on real-world datasets  
 - Interested in Data Analytics, Machine Learning, and AI  
 - Actively seeking Data Analyst / ML Intern opportunities  
 
@@ -15,7 +15,7 @@
 ## Technical Skills
 - Languages: Python, SQL, Java, C  
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib  
-- Tools: Power BI, Git, Jupyter Notebook  
+- Tools: Git, Jupyter Notebook  
 - Web: HTML, CSS, JavaScript  
 - Database: MySQL  
 
@@ -33,17 +33,12 @@ Link: https://github.com/shivnaihebbar/Lunar-Seismic-events
 
 ---
 
-### Customer Churn Analysis Dashboard
-- Developed an interactive Power BI dashboard to analyze customer churn and retention patterns  
-- Created KPIs such as churn rate, customer tenure, and revenue trends  
-- Identified key factors influencing churn including contract type and monthly charges  
-
----
-
 ### Wine Quality Prediction
 - Built machine learning models to predict wine quality using classification techniques  
 - Achieved 84.58% accuracy using SVM  
 - Compared multiple models and evaluated performance  
+
+Link: 
 
 ---
 
